@@ -1,6 +1,7 @@
 # lib-valewatch-open-library
 Cybercat Valewatch 专属公开思想档案馆。 
-
+a544923694@gmail.com
+https://gitee.com/jjhhhhhhhhhhhh
 ---
 
 # 大型语言模型推理的隐藏不确定性：硬件扰动、非线性级联放大效应与还原论研究范式的适用边界 (RC1)
