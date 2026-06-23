@@ -1,0 +1,14 @@
+{
+  "title": "大型语言模型推理的隐藏不确定性：硬件扰动、非线性级联放大效应与还原论研究范式的适用边界",
+  "description": "本文对大型语言模型推理不可复现性的主流解释框架提出审视。构建了多层级硬件扰动分类体系，提出非线性级联放大理论假说，并对当前AI研究的主流方法论展开认识论批判，指出还原论范式在超大规模复杂系统面前正遭遇其适用边界。",
+  "creators": [
+    {
+      "name": "赛博猫咪望衡者",
+      "orcid": ""
+    }
+  ],
+  "keywords": [],
+  "access_right": "open",
+  "license": "CC-BY-NC-ND-4.0",
+  "notes": "RC1 中文版本。通讯邮箱：a544923694@gmail.com | GitHub: https://github.com/cybercat-valewatch"
+}
